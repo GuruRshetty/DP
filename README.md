@@ -21,6 +21,3 @@ python manage.py createsuperuser
 python manage.py makemigrations
 python manage.py migrate
 
-6.password - Guru@2000
-
-username-Guru
