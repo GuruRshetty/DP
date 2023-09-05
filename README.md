@@ -21,3 +21,4 @@ python manage.py createsuperuser
 python manage.py makemigrations
 python manage.py migrate
 
+share your email /contact I'll send the  user name and password
